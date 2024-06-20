@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm a passionate and driven 3rd year college student with a focus on web development and competitive coding. My journey in the world of technology has led me to explore the intricacies of creating dynamic and interactive web applications while also delving into the fascinating realm of competitive coding. With a strong foundation in programming languages such as HTML, CSS, JavaScript, and Java. As I continue to expand my knowledge and experience, I am eager to contribute to open source projects and collaborate with like-minded individuals. My goal is to make a meaningful impact through innovative software development and to stay at the forefront of technological advancements.
+I'm a passionate and driven final year college student with a focus on web development and competitive coding. My journey in the world of technology has led me to explore the intricacies of creating dynamic and interactive web applications while also delving into the fascinating realm of competitive coding. With a strong foundation in programming languages such as HTML, CSS, JavaScript, and Java. As I continue to expand my knowledge and experience, I am eager to contribute to open source projects and collaborate with like-minded individuals. My goal is to make a meaningful impact through innovative software development and to stay at the forefront of technological advancements.
 
 * 🌍  I'm based in Lucknow, India
 * ✉️  You can contact me at [dipanker.pandey.03@gmail.com](mailto:dipanker.pandey.03@gmail.com)
